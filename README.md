@@ -1,5 +1,3 @@
-# ser-347
-Projeto da Disciplina SER-347
 
 # SER-347 - Projeto Final
 
